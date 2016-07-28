@@ -1,1 +1,2 @@
 end conflict
+trigger conflict
